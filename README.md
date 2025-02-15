@@ -1,4 +1,4 @@
-#Record Application
+# Record Application
 
 It is basically Champion list. In which it shows the details of the champion's character by calling the data from the API with the help of a ktor 
 and clean architecture has been used in it for detail integration.
